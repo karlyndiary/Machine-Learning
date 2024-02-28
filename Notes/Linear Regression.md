@@ -1,4 +1,4 @@
-# Notes
+### Linear Regression
 
 Machine learning is a field of study that focuses on developing algorithms and techniques that enable computers to learn patterns and make predictions or decisions from data, without being explicitly programmed. Linear regression is one of the simplest and most widely used techniques in machine learning for predictive modeling and statistical analysis.
 
